@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Muhammaduulu_Kaasym_66_hw2_m3</string>
+    
+    <string name="btn_plus">btnPlus</string>
+    <string name="btn_minus">btnMinus</string>
+    <string name="tv_zero">tvZero</string>
+
+</resources>
